@@ -26,10 +26,21 @@ div {
 .black {
 
   background-color: #000;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 
 }
 .white {
 
   background-color: #fff;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 
+}
+
+i{
+  color:powderblue;
+ 
 }
